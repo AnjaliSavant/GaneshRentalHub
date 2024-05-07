@@ -1,0 +1,19 @@
+.slowguncolor{
+    color: white;
+}
+.container {
+    display: block !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+.iconimg{
+        /* display: block; */
+        margin-left: auto;
+        margin-right: auto;
+        width: 10%;
+        height: 10%;
+}
+.vl {
+    border-left: 2px solid white;
+    /* height: 500px; */
+  }
